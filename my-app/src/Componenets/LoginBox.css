@@ -1,0 +1,57 @@
+.login {
+  font-family: 'MuseoModerno';
+  text-align: center;
+  width: 500px;
+  margin: 150px auto;
+  background-color: rgba(222, 152, 91, 0.715);
+  border-radius: 25px;
+}
+
+.login-topic {
+  padding: 25px;
+  color: #620000;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.button {
+  background-color: rgb(182, 21, 21);
+  color: #fff;
+  font-size: 18px;
+  display: inline-block;
+  margin: 35px 0 15px 0;
+  padding: 10px 30px;
+  border-radius: 25px;
+}
+
+.button:hover {
+  background-color: rgb(186, 30, 30);
+  cursor: pointer;
+}
+
+.make-account {
+  padding: 5px 0 15px;
+  color: #4d0000;
+  font-weight: 500;
+}
+
+.make-account a {
+  color: #4d0000;
+}
+
+.make-account a:hover {
+  color: #850000;
+}
+
+.input-box {
+  display: flex;
+  margin: 5px;
+  justify-content: center;
+}
+
+.icon {
+  background-color: #fff;
+  border: 3px solid rgb(237, 161, 161);
+  border-right: 0;
+  padding: 5px;
+}
